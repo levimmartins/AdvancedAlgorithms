@@ -8,7 +8,7 @@ For each algorithm, we evaluated the running time the memory consumption and the
 
 
 ## Team:
-Sanjana GOVINDASWAMY 
-José Cezário MARIANO JUNIOR 
-Levi MONTEIRO MARTINS 
-Geraldine SRAVANTHI 
+* **Sanjana GOVINDASWAMY**
+* **José Cezário MARIANO JUNIOR**
+* **Levi MONTEIRO MARTINS** 
+* **Geraldine SRAVANTHI** 
